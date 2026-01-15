@@ -44,4 +44,4 @@ All billing, renewals, cancellations, and refunds are handled by Apple in accord
 If you have questions about these Additional Terms, you may contact:
 
 **T.J. van Os**  
-Email: **thomasvanos@icloud.com**
+Email: **osdevelopmentswiftmath@gmail.com**

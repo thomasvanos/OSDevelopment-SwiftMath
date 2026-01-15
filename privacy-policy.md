@@ -106,4 +106,4 @@ Any updates will be published on the App Store listing and within the App.
 If you have questions about this Privacy Policy, you may contact:
 
 **T.J. van Os**  
-Email: **thomasvanos@icloud.com**
+Email: **osdevelopmentswiftmath@gmail.com**

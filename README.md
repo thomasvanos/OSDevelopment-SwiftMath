@@ -1,1 +1,1 @@
-# OSDevelopment-MathMaster
+# OSDevelopment-SwiftMath
